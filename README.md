@@ -1,8 +1,8 @@
 # PMI Certified Associate in Project Management (CAPM)
 
-## CAPM Exam Topics
+## 6. CAPM Exam Topics
 
-https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/capm20ecofinal.pdf
+See [Examination Content Outline](https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/capm20ecofinal.pdf).
 
 ## 9. What is a Project
 
